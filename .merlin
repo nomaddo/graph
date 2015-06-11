@@ -1,0 +1,3 @@
+PKG js_of_ocaml
+EXT js
+EXT lwt
